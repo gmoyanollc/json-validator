@@ -1,0 +1,1 @@
+node ./node_modules/ajv-cli/index.js validate -s TrackInfo.jsonschema -d Unit.json -r www.jsonix.org/jsonschemas/w3c/2001/XMLSchema.jsonschema -r gov_niem_release_niem_domains_cbrn__3.jsonschema -r gov_niem_release_niem_structures__3.jsonschema -r disa_udop_tracks__1_0_lib.jsonschema ; echo "return code: "$?
