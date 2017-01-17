@@ -1,0 +1,8 @@
+.vscode/**
+node_modules/**
+schema/**
+bin/**
+lib/**
+data/**
+bak/**
+
