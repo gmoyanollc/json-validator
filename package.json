@@ -9,6 +9,6 @@
   "author": "[George Moyano] (https://onename.com/gmoyano)",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^4.10.3""
+    "ajv": "^4.10.3"
   }
 }
