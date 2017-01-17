@@ -4,12 +4,11 @@
   "description": "validate json messages",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('Hello World');"
+    "test": ""
   },
   "author": "[George Moyano] (https://onename.com/gmoyano)",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^4.10.3",
-    "ajv-cli": "^1.1.1"
+    "ajv": "^4.10.3""
   }
 }
